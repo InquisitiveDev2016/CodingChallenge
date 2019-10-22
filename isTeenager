@@ -1,0 +1,17 @@
+package Test;
+
+public class isTeenager {
+	int age;
+	
+	public isTeenager(int age) {
+		this.age = age;
+		
+		if(age > 13 && age < 19) {
+			System.out.println("Is a teenager");
+		}
+		else {
+			System.out.println("Is not a teenager");
+		}
+	}
+
+}
