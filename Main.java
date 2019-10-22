@@ -4,7 +4,8 @@ import java.util.Arrays;
 
 public class Main
 {
-		//You are given 7 classes, all of the classes technically compile, but there are logic errors embedded within each class (except the Entry class)
+		//You are given 7 classes, all of the classes technically compile, but there are logic errors embedded within 
+		//each class (except the Entry class)
 		//You must find and debug each class in order for it to generate the correct outputs
 		//You have 22 minutes to pass all tests
 		//The Main method in this test is more of a "Tester" class where there are sample arrays, maps, etc. that are generated in order to test each java class
